@@ -23,6 +23,8 @@
 </br>
 - <a href="https://app.powerbi.com/view?r=eyJrIjoiMjc0MjY0YmQtMTBlNC00Y2M0LWI4NmUtZWE5YjIxN2RiNDk5IiwidCI6IjBmODIyNGQ0LTJiMTMtNGIyOS04NjUzLTFlMmUzZDI0NTBmMiIsImMiOjEwfQ%3D%3D">Snack Report using Dax</a>
 </br>
+- <a href="https://app.powerbi.com/view?r=eyJrIjoiMzI1MzVmYzQtYzEyNi00YmNkLWJkNmMtZjg1MGRjYjM1Nzc4IiwidCI6IjBmODIyNGQ0LTJiMTMtNGIyOS04NjUzLTFlMmUzZDI0NTBmMiIsImMiOjEwfQ%3D%3D">Professional Elective 4 Course Report</a>
+</br>
 
 <h2 align="center">💻 Best Design Patterns</h2>
 - <a href="https://github.com/dkroderos/dp/tree/main/builder">Builder Pattern</a>
