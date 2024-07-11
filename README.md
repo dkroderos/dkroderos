@@ -27,7 +27,7 @@
 <h2 align="center">💻 Best Design Patterns</h2>
 - <a href="https://github.com/dkroderos/dp/tree/main/builder">Builder Pattern</a>
 </br>
-- <a href="https://github.com/dkroderos/dp/tree/main/command">Factory Pattern</a>
+- <a href="https://github.com/dkroderos/dp/tree/main/factory">Factory Pattern</a>
 </br>
 - <a href="https://github.com/dkroderos/dp/tree/main/adapter">Adapter Pattern</a>
 </br>
